@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 ### Hi 👋, Welcome! 👨‍💻
-- DilberHusainKhan
+- My name is Dilber Husain Khan
 
 - I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
 
