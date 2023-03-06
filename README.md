@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilber Husain Khan</h1>
-<h3 align="justify">Experienced Software Developer with a demonstrated history of working in various industries. Skilled in ReactJS, NextJS, Bootstrap, Cascading Style Sheets (CSS), Java, JDBC and C (Programming Language). Strong engineering professional with a B.Tech in Computer Engineering focused on Front-end-Development from GNIOT and Diploma in Computer Engineering from Jamia Milla Islamia. I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️</h3>
+<h3 align="justify">Experienced Software Developer with a demonstrated history of working in various industries. Skilled in ReactJS, NextJS, Bootstrap, Cascading Style Sheets (CSS), Java, JDBC and C (Programming Language). Strong engineering professional with a B.Tech in Computer Engineering focused on Full stack Development from GNIOT and Diploma in Computer Engineering from Jamia Milla Islamia. I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilberhusainkhan&label=Profile%20views&color=0e75b6&style=flat" alt="dilberhusainkhan" /> </p>
 
